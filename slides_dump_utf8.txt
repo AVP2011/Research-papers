@@ -1,0 +1,78 @@
+﻿*** SLIDE 1 ***
+  [S1 Sh1] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S1 Sh1] B.E. Semester VII û Project Title Finalization Presentation
+  [S1 Sh1] SH-2025 (Academic Year --)
+  [S1 Sh2] TITLE:
+  [S1 Sh2] SEM: VII
+  [S1 Sh2] GUIDE NAME:
+  [S1 Sh2] STUDENT NAMES:
+  [S1 Sh2] ID - Roll No - Name
+  [S1 Sh2] DATE:
+  [S1 Sh3] DEPARTMENT OF COMPUTER ENGINEERING
+  [S1 Sh4] 1
+*** SLIDE 2 ***
+  [S2 Sh1] 1. Introduction
+  [S2 Sh1] 2. Literature Survey
+  [S2 Sh1] 3. Problem Statement
+  [S2 Sh1] 4. Proposed Methodology
+  [S2 Sh1] 5. Tools, Hardware, and Software
+  [S2 Sh1] 6. Expected Results
+  [S2 Sh1] 7. Conclusion
+  [S2 Sh1] 8. References
+  [S2 Sh2] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S2 Sh2] Table of Contents
+  [S2 Sh3] 2
+  [S2 Sh4] DEPARTMENT OF COMPUTER ENGINEERING
+*** SLIDE 3 ***
+  [S3 Sh2] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S3 Sh2] 1.INTRODUCTION
+  [S3 Sh2] A brief introduction including the background of the project,
+  [S3 Sh2] the motivation behind choosing this topic,
+  [S3 Sh2] its relevance to real-world and industry applications,
+  [S3 Sh2] and the key objectives the project aims to achieve.
+  [S3 Sh3] 3
+  [S3 Sh4] DEPARTMENT OF COMPUTER ENGINEERING
+*** SLIDE 4 ***
+  [S4 Sh1] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S4 Sh1] 2. LITERATURE SURVEY
+  [S4 Sh2] Existing System (with research paper citations)
+  [S4 Sh3] Limitations and gaps in the current systems
+  [S4 Sh3] Comparative analysis with related works
+  [S4 Sh4] 4
+  [S4 Sh5] DEPARTMENT OF COMPUTER ENGINEERING
+*** SLIDE 5 ***
+  [S5 Sh1] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S5 Sh1] 3.PROBLEM STATEMENT
+  [S5 Sh1] ( problem identification )
+  [S5 Sh2] 5
+  [S5 Sh3] DEPARTMENT OF COMPUTER ENGINEERING
+*** SLIDE 6 ***
+  [S6 Sh1] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S6 Sh1] 4. PROPOSED METHODOLOGY
+  [S6 Sh2] 6
+  [S6 Sh3] DEPARTMENT OF COMPUTER ENGINEERING
+  [S6 Sh4] - Step-by-step explanation of the planned approach
+  [S6 Sh4] - Block diagram or system architecture of the solution
+  [S6 Sh4] - Workflows or phases of implementation
+*** SLIDE 7 ***
+  [S7 Sh1] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S7 Sh1] 5. TOOLS, HARDWARE AND SOFTWARE ( Technical stacks)
+  [S7 Sh2] 7
+  [S7 Sh3] DEPARTMENT OF COMPUTER ENGINEERING
+*** SLIDE 8 ***
+  [S8 Sh1] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S8 Sh1] 6. EXPECTED RESULTS
+  [S8 Sh2] 8
+  [S8 Sh3] DEPARTMENT OF COMPUTER ENGINEERING
+*** SLIDE 9 ***
+  [S9 Sh1] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S9 Sh1] 7. CONCLUSION
+  [S9 Sh2] 9
+  [S9 Sh3] DEPARTMENT OF COMPUTER ENGINEERING
+*** SLIDE 10 ***
+  [S10 Sh1] MGMÆs COLLEGE OF ENGINEERING, KAMOTHE
+  [S10 Sh1] 8. REFERENCES
+  [S10 Sh1] Include at least 5 research papers or sources from reputed publishers
+  [S10 Sh1] such as IEEE, Springer, ACM, Hindawi, Wiley, Taylor & Francis, etc.
+  [S10 Sh2] 10
+  [S10 Sh3] DEPARTMENT OF COMPUTER ENGINEERING
